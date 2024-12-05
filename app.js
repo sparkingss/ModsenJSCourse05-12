@@ -1,1 +1,1 @@
-console.log('Dev branch says hello');
+console.log('Both branches say hello');
